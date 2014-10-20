@@ -1,7 +1,7 @@
 #!/bin/bash
-SERVER="devapp.plaso.cn"
-USER="plasoftpuser"
-PASS="hongfeizhifei9989"
+SERVER=“xxxx”
+USER=“xxxx”
+PASS=“xxxx”
 LOCALDIR="/Library/Server/Web/Data/Sites/Default/~kevin"
 REMOTEDIR="plaso_website/prod/"
 
