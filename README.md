@@ -1,7 +1,7 @@
 Spices4Coding
 =============
 
-Note ki__n__ds of spices in coding, have a taste and enjoy it!
+Note kin__d___s of spices in coding, have a taste and enjoy it!
 
 ##### 	[1. ValueForKey usage in NSAarray/NSSet------2014年08月11日15:37:05](https://github.com/atrwang/Spices4Coding/blob/master/1.md)
 ##### 	[2. #import \<POP/POP> ------ 2014年08月12日09:32:33](https://github.com/atrwang/Spices4Coding/blob/master/2.md)
@@ -11,9 +11,13 @@ Note ki__n__ds of spices in coding, have a taste and enjoy it!
 ##### 	[6. atosl 解析dSYM content 获取地址对应的代码 ------ 2014年09月30日16:11:37](https://github.com/atrwang/Spices4Coding/blob/master/6.md)
 
 
-test1
+test4 new
 
+test1 new
 
-test2
+test2 new
 
-test3
+test3 new
+
+test5 new
+test5 new
