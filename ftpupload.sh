@@ -7,7 +7,7 @@ REMOTEDIR="plaso_website/prod/"
 
 ftp -v -n $SERVER <<END_OF_SESSION
 user $USER $PASS
-$FILETYPE
+binary
 lcd $LOCALDIR
 cd $REMOTEDIR
 put Dev_Plaso4StudentClientBeta.ipa kevin_DevPlaso4StudentClientBeta.ipa
